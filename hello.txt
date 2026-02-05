@@ -1,2 +1,3 @@
 hello bash
-welcome to bashwelcome
+welcome to bash
+welcome
