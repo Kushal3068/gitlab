@@ -1,3 +1,4 @@
 hello bash
 welcome to bash
 welcome
+student training program
