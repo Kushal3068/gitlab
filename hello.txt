@@ -1,2 +1,2 @@
 welcome
-hello bash 
+hello Git bash from master branch
