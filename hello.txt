@@ -1,7 +1,5 @@
 welcome
-
 hello Git bash from master branch
-
 hello bash 
 Changes from feature branch
 
