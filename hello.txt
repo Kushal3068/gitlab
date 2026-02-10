@@ -1,4 +1,8 @@
 welcome
+hello Git bash from master branch
 hello bash 
 Changes from feature branch
 welcome to git bash
+hello fit bash
+hello 8 / 2/ 2026 
+change from github1
